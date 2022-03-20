@@ -1,6 +1,6 @@
 # digit-parser
 
-This is a small program that parses the digits of an integer number.
+A small program that parses the digits of an integer number.
 
 ## What's the point?
 
